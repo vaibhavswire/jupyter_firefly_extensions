@@ -2,6 +2,7 @@
 
 JupyterLab extensions for rendering FITS and displaying tables, images, & charts with Firefly.
 
+GUI Install - Go to Extensions in JupyterLab and search for firefly-extensions, sign-in to Github if not already, click install in the gui box, restart JupyterLab
 
 ## Overview
 
